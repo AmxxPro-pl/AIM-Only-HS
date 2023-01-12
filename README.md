@@ -2,7 +2,7 @@
 
 <b> Podstawowy opis paczki aim/only HS (aby samemu sprawdzić paczkę zgłoś się do właściciela poprzez discorda)
 
-## Compatibility
+### Compatibility
 - 1.8.3-dev+5142
 - 1.9-dev+5235
 
